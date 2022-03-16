@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646836589 source:c:\users\preynoso\desktop\programacion\cadenas\main.cpp
+	<iostream>
+	<stdlib.h>
+	"funciones.h"
+	"test.h"
+
+1646836954 c:\users\preynoso\desktop\programacion\cadenas\funciones.h
+	<iostream>
+
+1646836845 c:\users\preynoso\desktop\programacion\cadenas\test.h
+	<stdlib.h>
+
